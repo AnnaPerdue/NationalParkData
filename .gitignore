@@ -1,0 +1,5 @@
+# .gitignore files
+**/__pycache__
+**/.vscode
+**/.ipynb_checkpoints
+**/*.ipynb
