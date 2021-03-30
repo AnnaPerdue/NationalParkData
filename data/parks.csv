@@ -1,4 +1,4 @@
-Park Code,Park Name,State,Acres,Latitude,Longitude
+Park Code,Park,State,Acres,Latitude,Longitude
 ACAD,Acadia National Park,ME,47390,44.35,-68.21
 ARCH,Arches National Park,UT,76519,38.68,-109.57
 BADL,Badlands National Park,SD,242756,43.75,-102.5
@@ -17,7 +17,7 @@ DENA,Denali National Park and Preserve,AK,3372402,63.33,-150.5
 DEVA,Death Valley National Park,"CA, NV",4740912,36.24,-116.82
 DRTO,Dry Tortugas National Park,FL,64701,24.63,-82.87
 EVER,Everglades National Park,FL,1508538,25.32,-80.93
-GAAR,Gates Of The Arctic National Park and Preserve,AK,7523898,67.78,-153.30
+GAAR,Gates Of The Arctic National Park and Preserve,AK,7523898,67.78,-153.3
 GLAC,Glacier National Park,MT,1013572,48.8,-114
 GLBA,Glacier Bay National Park and Preserve,AK,3224840,58.5,-137
 GRBA,Great Basin National Park,NV,77180,38.98,-114.3
